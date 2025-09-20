@@ -1,0 +1,23 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+  "next": "latest",
+  "react": "18.2.0",
+  "react-dom": "18.2.0",
+    "react-router-dom": "^7.9.1",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "24.5.2",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "typescript": "5.9.2"
+  }
+}
