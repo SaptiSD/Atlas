@@ -28,7 +28,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     const radiusMeters = Math.round(10 * 1609.34);
     const location = `${encodeURIComponent(String(lat))},${encodeURIComponent(String(lng))}`;
 
-    const types = ['grocery_or_supermarket'];
+    const types = ['supermarket', 'grocery_or_supermarket'];
     const results: Place[] = [];
 
     // Helper to pause for Google Places next_page_token (API requires ~2s delay)
