@@ -8,14 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
-  "next": "latest",
-  "react": "18.2.0",
-  "react-dom": "18.2.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-router-dom": "^7.9.1",
     "tailwindcss": "latest"
   },
   "devDependencies": {
     "@types/node": "24.5.2",
+    "@types/react": "19.1.13",
     "autoprefixer": "latest",
     "postcss": "latest",
     "typescript": "5.9.2"
