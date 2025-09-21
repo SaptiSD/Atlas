@@ -1,0 +1,424 @@
+{
+  "places": [
+    {
+      "name": "Trader Joe's",
+      "vicinity": "2922 South Shepherd Drive, Houston",
+      "place_id": "ChIJXfdnyZPAQIYRaa5TXKjPa0U",
+      "lat": 29.73917339999999,
+      "lng": -95.41132139999999
+    },
+    {
+      "name": "Trader Joe's",
+      "vicinity": "1440 South Voss Road, Houston",
+      "place_id": "ChIJLbmfqJPDQIYRa1lUYYUD3q0",
+      "lat": 29.7527125,
+      "lng": -95.5016672
+    },
+    {
+      "name": "Phoenicia Specialty Foods",
+      "vicinity": "1001 Austin Street, Houston",
+      "place_id": "ChIJMySlQyO_QIYRfT2Tz0HkWDw",
+      "lat": 29.7544406,
+      "lng": -95.3616797
+    },
+    {
+      "name": "99 Ranch Market",
+      "vicinity": "1005 Blalock Road, Houston",
+      "place_id": "ChIJezOStovEQIYRqN-2-ZFGUVw",
+      "lat": 29.785412,
+      "lng": -95.522853
+    },
+    {
+      "name": "Whole Foods Market",
+      "vicinity": "701 Waugh Drive, Houston",
+      "place_id": "ChIJV3QKGabAQIYRCs-Qq2B_pD8",
+      "lat": 29.75785529999999,
+      "lng": -95.39764149999999
+    },
+    {
+      "name": "Walmart Neighborhood Market",
+      "vicinity": "9700 Hillcroft Street, Houston",
+      "place_id": "ChIJf1nrxOHpQIYRH4uvH-ChuSw",
+      "lat": 29.6744436,
+      "lng": -95.4953967
+    },
+    {
+      "name": "Randalls",
+      "vicinity": "2225 Louisiana Street, Houston",
+      "place_id": "ChIJr2DGnWq_QIYRrdJlcOD0D50",
+      "lat": 29.7489202,
+      "lng": -95.37442290000001
+    },
+    {
+      "name": "Randalls",
+      "vicinity": "3131 West Holcombe Boulevard, Houston",
+      "place_id": "ChIJreHYpkjAQIYRsAuamemn9Ks",
+      "lat": 29.7047537,
+      "lng": -95.42583529999999
+    },
+    {
+      "name": "Fiesta Mart #7",
+      "vicinity": "6200 Bellaire Boulevard, Houston",
+      "place_id": "ChIJY8LkuTvCQIYR-rPB38sTmSQ",
+      "lat": 29.7064889,
+      "lng": -95.491251
+    },
+    {
+      "name": "Whole Foods Market",
+      "vicinity": "2955 Kirby Drive, Houston",
+      "place_id": "ChIJHR8RS-zAQIYRfYlLfCzaBpg",
+      "lat": 29.73932779999999,
+      "lng": -95.41803759999999
+    },
+    {
+      "name": "Fiesta Mart #18",
+      "vicinity": "8130 Kirby Drive, Houston",
+      "place_id": "ChIJgT9doxfAQIYRGNrr0VKLEnA",
+      "lat": 29.69038219999999,
+      "lng": -95.41514970000001
+    },
+    {
+      "name": "Whole Foods Market",
+      "vicinity": "4004 Bellaire Boulevard, Houston",
+      "place_id": "ChIJ2dTAUbHBQIYRw9UtOCFJYp4",
+      "lat": 29.70684919999999,
+      "lng": -95.4414798
+    },
+    {
+      "name": "Fiesta Mart #39",
+      "vicinity": "8710 Bellaire Boulevard, Houston",
+      "place_id": "ChIJsRa-zOnCQIYRQQTI2BzydM8",
+      "lat": 29.7058889,
+      "lng": -95.5395678
+    },
+    {
+      "name": "India Mart",
+      "vicinity": "5604 Hillcroft Avenue, Houston",
+      "place_id": "ChIJg_BpKbXDQIYR4anQ9L3gFxI",
+      "lat": 29.7218767,
+      "lng": -95.5015019
+    },
+    {
+      "name": "Viet Hoa International Foods",
+      "vicinity": "8300 West Sam Houston Parkway South STE 100, Houston",
+      "place_id": "ChIJvzA2sLPCQIYR8PX0-tOYAIo",
+      "lat": 29.6887485,
+      "lng": -95.5604492
+    },
+    {
+      "name": "Fiesta Mart #11",
+      "vicinity": "4711 Airline Drive, Houston",
+      "place_id": "ChIJH7qGN3K4QIYRQv8sLF2PdLA",
+      "lat": 29.8367029,
+      "lng": -95.3852575
+    },
+    {
+      "name": "Russian General Store",
+      "vicinity": "9629 Hillcroft Street, Houston",
+      "place_id": "ChIJNekJignCQIYRjjQmwsgA5Vg",
+      "lat": 29.6764818,
+      "lng": -95.4929193
+    },
+    {
+      "name": "Fiesta Mart #8",
+      "vicinity": "2323 Wirt Road, Houston",
+      "place_id": "ChIJkeWpHNPFQIYRhmx4NdFbSZQ",
+      "lat": 29.8152353,
+      "lng": -95.4871641
+    },
+    {
+      "name": "Randalls",
+      "vicinity": "5161 San Felipe Street, Houston",
+      "place_id": "ChIJWSGCIkPBQIYRB1D8emly2JA",
+      "lat": 29.7487951,
+      "lng": -95.4659102
+    },
+    {
+      "name": "Keemat Grocers",
+      "vicinity": "5601 Hillcroft Street, Houston",
+      "place_id": "ChIJ8Vj1MLXDQIYRh24MdDFk0HI",
+      "lat": 29.722,
+      "lng": -95.50059999999999
+    },
+    {
+      "name": "Fiesta Mart #5",
+      "vicinity": "5600 Mykawa Road, Houston",
+      "place_id": "ChIJJZYA1xm-QIYRLfRUZDl7QNw",
+      "lat": 29.6933203,
+      "lng": -95.3285595
+    },
+    {
+      "name": "Randalls",
+      "vicinity": "5586 Weslayan Street, Houston",
+      "place_id": "ChIJufIWhqnBQIYRFFB2-4_VFFk",
+      "lat": 29.7218463,
+      "lng": -95.44247519999999
+    },
+    {
+      "name": "Fiesta Mart #3",
+      "vicinity": "800 South Wayside Drive, Houston",
+      "place_id": "ChIJkZ7Tnyq8QIYRAOvsL7UeS9w",
+      "lat": 29.7307298,
+      "lng": -95.31078230000001
+    },
+    {
+      "name": "Walmart Neighborhood Market",
+      "vicinity": "11242 South Gessner Road, Houston",
+      "place_id": "ChIJkaiFOjfoQIYR6Me4rCkjUC8",
+      "lat": 29.6570305,
+      "lng": -95.5300697
+    },
+    {
+      "name": "Fiesta Mart #51",
+      "vicinity": "9420 Cullen Boulevard, Houston",
+      "place_id": "ChIJqQEupQuVQIYR_1Lkh1tnErE",
+      "lat": 29.6550811,
+      "lng": -95.35678829999999
+    },
+    {
+      "name": "Randalls",
+      "vicinity": "9660 Westheimer Road, Houston",
+      "place_id": "ChIJdZM9JhTDQIYRp89PSOJf66g",
+      "lat": 29.73861029999999,
+      "lng": -95.5373102
+    },
+    {
+      "name": "Jerusalem Halal Meats",
+      "vicinity": "3330 Hillcroft Street, Houston",
+      "place_id": "ChIJ0wZYi7bDQIYRmtdtOdkoEY8",
+      "lat": 29.72829299999999,
+      "lng": -95.501779
+    },
+    {
+      "name": "Payless African Food Store",
+      "vicinity": "9301 Bissonnet Street # 170, Houston",
+      "place_id": "ChIJzeiwkZ_CQIYRvBLsnJcWV0w",
+      "lat": 29.6751083,
+      "lng": -95.5402933
+    },
+    {
+      "name": "Food Town",
+      "vicinity": "9725 Fondren Road, Houston",
+      "place_id": "ChIJLVvac9jpQIYRYi2lv90RkAc",
+      "lat": 29.67383599999999,
+      "lng": -95.507706
+    },
+    {
+      "name": "Joe V's Smart Shop",
+      "vicinity": "12009 Northwest Freeway, Houston",
+      "place_id": "ChIJPzWcDdzFQIYRKO9GQJbJikE",
+      "lat": 29.831577,
+      "lng": -95.484933
+    },
+    {
+      "name": "La Michoacana Meat Market",
+      "vicinity": "7071 Lawndale Street, Houston",
+      "place_id": "ChIJHZqkjcW9QIYR8NbO3NyOvbE",
+      "lat": 29.7180556,
+      "lng": -95.2955556
+    },
+    {
+      "name": "Foodarama",
+      "vicinity": "10810 South Post Oak Road, Houston",
+      "place_id": "ChIJ1UxOVRDqQIYRboql_zj92Kg",
+      "lat": 29.6623208,
+      "lng": -95.46466509999999
+    },
+    {
+      "name": "The Michoacana Meat Market",
+      "vicinity": "4711 West 34th Street, Houston",
+      "place_id": "ChIJUQnID2HGQIYRJuqCSziTu2E",
+      "lat": 29.8185321,
+      "lng": -95.46023989999999
+    },
+    {
+      "name": "La Michoacana Meat Market",
+      "vicinity": "11210 South Post Oak Road, Houston",
+      "place_id": "ChIJ_1HpqxfqQIYRJIY91k7Mgds",
+      "lat": 29.6561233,
+      "lng": -95.46451189999999
+    },
+    {
+      "name": "Prime Bazaar: Halal Supermarket",
+      "vicinity": "8403 Almeda Road, Houston",
+      "place_id": "ChIJpyAYIf-_QIYRVfIQd4hG-3c",
+      "lat": 29.6851367,
+      "lng": -95.3912191
+    },
+    {
+      "name": "ALDI",
+      "vicinity": "3618 Old Spanish Trail, Houston",
+      "place_id": "ChIJ42Y_xse_QIYReKEzw_pBVpY",
+      "lat": 29.70136609999999,
+      "lng": -95.3633656
+    },
+    {
+      "name": "Pyburns Farm Fresh Foods",
+      "vicinity": "7125 Scott Street, Houston",
+      "place_id": "ChIJIS9YO9q_QIYRQ7l15YDcPXU",
+      "lat": 29.6866071,
+      "lng": -95.36342839999999
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "vicinity": "195 Yale Street Ste 100, Houston",
+      "place_id": "ChIJdXY3g1PHQIYRdmw-WAp1Oeg",
+      "lat": 29.7746578,
+      "lng": -95.4002931
+    },
+    {
+      "name": "Whole Foods Market",
+      "vicinity": "1700 Post Oak Boulevard #100, Houston",
+      "place_id": "ChIJPRngZ0HBQIYRBhokTES2MAY",
+      "lat": 29.7496753,
+      "lng": -95.4617292
+    },
+    {
+      "name": "World Distributors LLC",
+      "vicinity": "5710 Green Ash Drive, Houston",
+      "place_id": "ChIJZVyzoSvCQIYR4BnPJTFZhPk",
+      "lat": 29.7189517,
+      "lng": -95.4816092
+    },
+    {
+      "name": "NORTHSTAR INDUSTRIES",
+      "vicinity": "1714 Broadway Street, Houston",
+      "place_id": "ChIJRQ1uMKO9QIYRUa-z3L3y7zk",
+      "lat": 29.71085339999999,
+      "lng": -95.2786477
+    },
+    {
+      "name": "Amigo Supermarket, Taqueria & Washateria",
+      "vicinity": "6362 Windswept Lane #11, Houston",
+      "place_id": "ChIJtbPRMcrDQIYR3HdAerkcDx4",
+      "lat": 29.72632399999999,
+      "lng": -95.4965591
+    },
+    {
+      "name": "ALDI",
+      "vicinity": "6751 Bissonnet Street, Houston",
+      "place_id": "ChIJB2KIU2zCQIYRS54ZHIP8Jec",
+      "lat": 29.6893999,
+      "lng": -95.5014872
+    },
+    {
+      "name": "Whole Foods Market",
+      "vicinity": "1407 South Voss Road, Houston",
+      "place_id": "ChIJmS3TIpPDQIYR-qPa_2yyT04",
+      "lat": 29.7523834,
+      "lng": -95.49998579999999
+    },
+    {
+      "name": "El Ahorro",
+      "vicinity": "4725 Telephone Road, Houston",
+      "place_id": "ChIJfbSQ8_C9QIYRE_1nHoGN_3k",
+      "lat": 29.691674,
+      "lng": -95.298287
+    },
+    {
+      "name": "Sellers Bros",
+      "vicinity": "5900 Renwick Drive, Houston",
+      "place_id": "ChIJxb1DRSzCQIYR28N_2TqNA9c",
+      "lat": 29.7177778,
+      "lng": -95.4858333
+    },
+    {
+      "name": "Capital Filtrations Inc",
+      "vicinity": "3403 West T C Jester Boulevard Ste 1027, Houston",
+      "place_id": "ChIJV6-JcWbJRIYRfFCVO6vXheM",
+      "lat": 29.8175217,
+      "lng": -95.4467598
+    },
+    {
+      "name": "CKC African Food Store",
+      "vicinity": "9924 South Gessner Road, Houston",
+      "place_id": "ChIJ11coWCjoQIYRUos9lrJcxMM",
+      "lat": 29.6704619,
+      "lng": -95.5286994
+    },
+    {
+      "name": "Joe V's Smart Shop",
+      "vicinity": "7755 West Bellfort Avenue, Houston",
+      "place_id": "ChIJo-E_QsnpQIYRBElg2xkobqw",
+      "lat": 29.655182,
+      "lng": -95.513149
+    },
+    {
+      "name": "La Michoacana Supermarket",
+      "vicinity": "8002 South Gessner Road, Houston",
+      "place_id": "ChIJRac3q5bCQIYRzNYBROlO9uU",
+      "lat": 29.6906356,
+      "lng": -95.5355742
+    },
+    {
+      "name": "Welcome Food Center",
+      "vicinity": "9180 Bellaire Boulevard, Houston",
+      "place_id": "ChIJxSoeP8PCQIYRT6Rc4thBjUk",
+      "lat": 29.7066551,
+      "lng": -95.5446588
+    },
+    {
+      "name": "La Michoacana Meat Market",
+      "vicinity": "7501 Bissonnet Street, Houston",
+      "place_id": "ChIJSR2i2HrCQIYRGtKv0T-m2Kg",
+      "lat": 29.68397849999999,
+      "lng": -95.5134236
+    },
+    {
+      "name": "Jusgo Supermarket",
+      "vicinity": "9280 Bellaire Boulevard, Houston",
+      "place_id": "ChIJsacOkcTCQIYRWKe_Gi7ddGY",
+      "lat": 29.7059219,
+      "lng": -95.5469068
+    },
+    {
+      "name": "Joe V's Smart Shop",
+      "vicinity": "6100 West Fuqua Street, Houston",
+      "place_id": "ChIJl8W3vhiUQIYRrCBu6PqJmm0",
+      "lat": 29.60793899999999,
+      "lng": -95.4773927
+    },
+    {
+      "name": "Fiesta Mart #24",
+      "vicinity": "11240 Fondren Road, Houston",
+      "place_id": "ChIJ3Veh_TXHQIYR2GSzDE4AF9c",
+      "lat": 29.6568229,
+      "lng": -95.51011369999999
+    },
+    {
+      "name": "Sellers Bros #1",
+      "vicinity": "8011 Elvera Street A, Houston",
+      "place_id": "ChIJ4RhqMb29QIYRDzmoinkfDEU",
+      "lat": 29.70923669999999,
+      "lng": -95.2795865
+    },
+    {
+      "name": "H Mart Houston Blalock",
+      "vicinity": "1302 Blalock Road, Houston",
+      "place_id": "ChIJh7mYn_XEQIYR0CxVZEJ6DyE",
+      "lat": 29.7925583,
+      "lng": -95.5208535
+    },
+    {
+      "name": "Teloloapan Meat Market #9",
+      "vicinity": "9808 Beechnut Street, Houston",
+      "place_id": "ChIJCxH7SrHCQIYRC5R01i-t1Cg",
+      "lat": 29.6900464,
+      "lng": -95.5553145
+    },
+    {
+      "name": "La Michoacana Meat Market",
+      "vicinity": "4001 West Fuqua Street, Houston",
+      "place_id": "ChIJ2-j9xaDrQIYRci2NK1q9OTM",
+      "lat": 29.61285649999999,
+      "lng": -95.4356483
+    },
+    {
+      "name": "H Mart Houston Bellaire",
+      "vicinity": "9896 Bellaire Boulevard, Houston",
+      "place_id": "ChIJxfGwNc7CQIYRKQcJpLap9IE",
+      "lat": 29.7066036,
+      "lng": -95.55396429999999
+    }
+  ]
+}
