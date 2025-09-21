@@ -10,5 +10,11 @@
     "files": [
       "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__error_js.js"
     ]
+  },
+  "pages\\search\\index.tsx -> @google/generative-ai": {
+    "id": "pages\\search\\index.tsx -> @google/generative-ai",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_google_generative-ai_dist_index_mjs.js"
+    ]
   }
 }
